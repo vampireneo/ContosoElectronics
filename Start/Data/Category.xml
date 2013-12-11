@@ -1,0 +1,77 @@
+<ArrayOfProductCategory xmlns="http://schemas.datacontract.org/2004/07/ContosoElectronics.DataModel" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ProductCategory>
+    <Id>1</Id>
+    <ImagePath/>
+    <Name>Audio</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>11</Id>
+        <ImagePath>/Data/ProductCategoryImages/4040101.png</ImagePath>
+        <Name>Car audio</Name>
+        <ProductCount>13</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>12</Id>
+        <ImagePath>/Data/ProductCategoryImages/4010101.png</ImagePath>
+        <Name>MP3</Name>
+        <ProductCount>34</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>13</Id>
+        <ImagePath>/Data/ProductCategoryImages/4030101.png</ImagePath>
+        <Name>Headphones</Name>
+        <ProductCount>31</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+  <ProductCategory>
+    <Id>2</Id>
+    <ImagePath/>
+    <Name>Cameras</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>15</Id>
+        <ImagePath>/Data/ProductCategoryImages/2030101.png</ImagePath>
+        <Name>Camcorders</Name>
+        <ProductCount>24</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>16</Id>
+        <ImagePath>/Data/ProductCategoryImages/2010101.png</ImagePath>
+        <Name>Digital cameras</Name>
+        <ProductCount>56</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>17</Id>
+        <ImagePath>/Data/ProductCategoryImages/2040101.png</ImagePath>
+        <Name>Camera accessories</Name>
+        <ProductCount>12</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+  <ProductCategory>
+    <Id>3</Id>
+    <ImagePath/>
+    <Name>Computers</Name>
+    <SubCategoryItems>
+      <ProductSubCategory>
+        <Id>19</Id>
+        <ImagePath>/Data/ProductCategoryImages/1060101.png</ImagePath>
+        <Name>Computers accessories</Name>
+        <ProductCount>59</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>20</Id>
+        <ImagePath>/Data/ProductCategoryImages/1010101.png</ImagePath>
+        <Name>Laptops</Name>
+        <ProductCount>54</ProductCount>
+      </ProductSubCategory>
+      <ProductSubCategory>
+        <Id>21</Id>
+        <ImagePath>/Data/ProductCategoryImages/1050101.png</ImagePath>
+        <Name>Printers, scanners and fax</Name>
+        <ProductCount>36</ProductCount>
+      </ProductSubCategory>
+    </SubCategoryItems>
+  </ProductCategory>
+</ArrayOfProductCategory>

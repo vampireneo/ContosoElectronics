@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ContosoElectronics.DataModel.Product">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAAAAAAIQACAAAAAAAACAAAAAACAA=</HashCode>
+      <FileName>DataModel\Product.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ProductSpecifications" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ContosoElectronics.DataModel.ProductCategory">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAIQCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\ProductCategory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="SubCategoryItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ContosoElectronics.DataModel.ProductSpecification">
+    <Position X="1" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataModel\ProductSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContosoElectronics.DataModel.ProductSubCategory">
+    <Position X="4.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAIQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\ProductSubCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

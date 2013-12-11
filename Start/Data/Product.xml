@@ -1,0 +1,1757 @@
+<ArrayOfProduct xmlns="http://schemas.datacontract.org/2004/07/ContosoElectronics.DataModel" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146791</Id>
+    <ImagePath>/Data/ProductImages/4040102.png</ImagePath>
+    <Name>Proseware 50W Car Radio</Name>
+    <Price>89.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>11</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146792</Id>
+    <ImagePath>/Data/ProductImages/4040103.png</ImagePath>
+    <Name>Proseware 50W Car Radio</Name>
+    <Price>89.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>11</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146793</Id>
+    <ImagePath>/Data/ProductImages/4040104.png</ImagePath>
+    <Name>Proseware 50W Car Radio</Name>
+    <Price>89.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>11</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146794</Id>
+    <ImagePath>/Data/ProductImages/4040101.png</ImagePath>
+    <Name>Proseware 50W Car Radio</Name>
+    <Price>89.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>11</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146795</Id>
+    <ImagePath>/Data/ProductImages/4040105.png</ImagePath>
+    <Name>Proseware 50W Car Radio</Name>
+    <Price>89.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>11</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>2 GB MP3 player with LCD display for easy navigation between files and playlists. Plays MP3 and WMA files. Integrated voice recorder. High speed USB 2.0 interface.</Description>
+    <Id>5637146690</Id>
+    <ImagePath>/Data/ProductImages/4010102.png</ImagePath>
+    <Name>Litware 2G MP3 Player E200</Name>
+    <Price>21.57</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>12</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>2 GB MP3 player with LCD display for easy navigation between files and playlists. Plays MP3 and WMA files. Integrated voice recorder. High speed USB 2.0 interface.</Description>
+    <Id>5637146691</Id>
+    <ImagePath>/Data/ProductImages/4010101.png</ImagePath>
+    <Name>Litware 2G MP3 Player E200</Name>
+    <Price>21.57</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>12</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>2 GB MP3 player with LCD display for easy navigation between files and playlists. Plays MP3 and WMA files. Integrated voice recorder. High speed USB 2.0 interface.</Description>
+    <Id>5637146692</Id>
+    <ImagePath>/Data/ProductImages/4010104.png</ImagePath>
+    <Name>Litware 2G MP3 Player E200</Name>
+    <Price>21.57</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>12</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>2 GB MP3 player with LCD display for easy navigation between files and playlists. Plays MP3 and WMA files. Integrated voice recorder. High speed USB 2.0 interface.</Description>
+    <Id>5637146693</Id>
+    <ImagePath>/Data/ProductImages/4010103.png</ImagePath>
+    <Name>Litware 2G MP3 Player E200</Name>
+    <Price>21.57</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>12</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>MP3 player with 4 GB memory and built-in FM radio tuner makes it easy to listen to your favorite music wherever you go. User friendly LCD display with 7-color backlight.</Description>
+    <Id>5637146694</Id>
+    <ImagePath>/Data/ProductImages/4010201.png</ImagePath>
+    <Name>Litware 4G MP3 Player E400</Name>
+    <Price>59.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>12</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146770</Id>
+    <ImagePath>/Data/ProductImages/4030403.png</ImagePath>
+    <Name>Northwind Traders Beat Headphones</Name>
+    <Price>79.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>13</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146771</Id>
+    <ImagePath>/Data/ProductImages/4030401.png</ImagePath>
+    <Name>Northwind Traders Beat Headphones</Name>
+    <Price>79.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>13</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146772</Id>
+    <ImagePath>/Data/ProductImages/4030503.png</ImagePath>
+    <Name>Proseware Noise-Cancelling Headphones</Name>
+    <Price>129.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>13</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146773</Id>
+    <ImagePath>/Data/ProductImages/4030501.png</ImagePath>
+    <Name>Proseware Noise-Cancelling Headphones</Name>
+    <Price>129.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>13</SubCategory>
+  </Product>
+  <Product>
+    <Category>1</Category>
+    <Description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</Description>
+    <Id>5637146774</Id>
+    <ImagePath>/Data/ProductImages/4030502.png</ImagePath>
+    <Name>Proseware Noise-Cancelling Headphones</Name>
+    <Price>129.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>13</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Ultra-compact moviemaker that offers POV-style image capture from a long distance. 720i or 720p high definition or standard definition, 4mm, 47.3º</Description>
+    <Id>5637146586</Id>
+    <ImagePath>/Data/ProductImages/2030102.png</ImagePath>
+    <Name>Fabrikam Home Moviemaker M400</Name>
+    <Price>600</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>15</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Ultra-compact moviemaker that offers POV-style image capture from a long distance. 720i or 720p high definition or standard definition, 4mm, 47.3º</Description>
+    <Id>5637146587</Id>
+    <ImagePath>/Data/ProductImages/2030101.png</ImagePath>
+    <Name>Fabrikam Home Moviemaker M400</Name>
+    <Price>600</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>15</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Ultra-compact moviemaker that offers POV-style image capture from a long distance. 720i or 720p high definition or standard definition, 4mm, 47.3º</Description>
+    <Id>5637146588</Id>
+    <ImagePath>/Data/ProductImages/2030202.png</ImagePath>
+    <Name>Fabrikam Home Moviemaker M300</Name>
+    <Price>566</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>15</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Ultra-compact moviemaker that offers POV-style image capture from a long distance. 720i or 720p high definition or standard definition, 4mm, 47.3º</Description>
+    <Id>5637146589</Id>
+    <ImagePath>/Data/ProductImages/2030201.png</ImagePath>
+    <Name>Fabrikam Home Moviemaker M300</Name>
+    <Price>566</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>15</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Ultra-compact moviemaker that offers POV-style image capture from a long distance. 720i or 720p high definition or standard definition, 4mm, 47.3º</Description>
+    <Id>5637146590</Id>
+    <ImagePath>/Data/ProductImages/2030302.png</ImagePath>
+    <Name>Fabrikam Home Moviemaker M200</Name>
+    <Price>633</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>15</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Easy-to-use compact digital camera for capturing stunning pictures and video. With a 2.7 in color LCD screen and 4x optical zoom it is a good choice for the home and vacation photographer.</Description>
+    <Id>5637146504</Id>
+    <ImagePath>/Data/ProductImages/2010102.png</ImagePath>
+    <Name>A. Datum Compact Digital Camera M200</Name>
+    <Price>129</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>16</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Easy-to-use compact digital camera for capturing stunning pictures and video. With a 2.7 in color LCD screen and 4x optical zoom it is a good choice for the home and vacation photographer.</Description>
+    <Id>5637146505</Id>
+    <ImagePath>/Data/ProductImages/2010103.png</ImagePath>
+    <Name>A. Datum Compact Digital Camera M200</Name>
+    <Price>129</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>16</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Easy-to-use compact digital camera for capturing stunning pictures and video. With a 2.7 in color LCD screen and 4x optical zoom it is a good choice for the home and vacation photographer.</Description>
+    <Id>5637146506</Id>
+    <ImagePath>/Data/ProductImages/2010101.png</ImagePath>
+    <Name>A. Datum Compact Digital Camera M200</Name>
+    <Price>129</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>16</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Pocket camera with very good print image quality. High sharpness, good color, focus, and contrast.</Description>
+    <Id>5637146507</Id>
+    <ImagePath>/Data/ProductImages/2010202.png</ImagePath>
+    <Name>A. Datum Ultra Compact Digital Camera M190</Name>
+    <Price>165</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>16</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Pocket camera with very good print image quality. High sharpness, good color, focus, and contrast.</Description>
+    <Id>5637146508</Id>
+    <ImagePath>/Data/ProductImages/2010201.png</ImagePath>
+    <Name>A. Datum Ultra Compact Digital Camera M190</Name>
+    <Price>165</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>16</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Great macro zoom lens for insect and flower photography. 70-300mm macro lens with f/4-5.6 maximum aperture for digital or 35mm cameras.</Description>
+    <Id>5637146610</Id>
+    <ImagePath>/Data/ProductImages/2040101.png</ImagePath>
+    <Name>Litware Macro Zoom Lens X300</Name>
+    <Price>366.55</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>17</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Great macro zoom lens for insect and flower photography. 70-300mm macro lens with f/4-5.6 maximum aperture for digital or 35mm cameras.</Description>
+    <Id>5637146611</Id>
+    <ImagePath>/Data/ProductImages/2040102.png</ImagePath>
+    <Name>Litware Macro Zoom Lens X300</Name>
+    <Price>366.55</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>17</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Telephoto conversion Lens for compatible cyber shot digital cameras. Great for shooting wildlife or faraway landscapes.</Description>
+    <Id>5637146612</Id>
+    <ImagePath>/Data/ProductImages/2040201.png</ImagePath>
+    <Name>Litware Conversion Lens X400</Name>
+    <Price>595</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>17</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Telephoto conversion Lens for compatible cyber shot digital cameras. Great for shooting wildlife or faraway landscapes.</Description>
+    <Id>5637146613</Id>
+    <ImagePath>/Data/ProductImages/2040202.png</ImagePath>
+    <Name>Litware Conversion Lens X400</Name>
+    <Price>595</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>17</SubCategory>
+  </Product>
+  <Product>
+    <Category>2</Category>
+    <Description>Get closer to your subject with this cost-efficient converter. Magnification X2.6, Diameter 45mm</Description>
+    <Id>5637146614</Id>
+    <ImagePath>/Data/ProductImages/2040302.png</ImagePath>
+    <Name>Litware Conversion Lens M350</Name>
+    <Price>95</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>17</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Optical USB mouse with an improved wheel to make the scrolling up, down and sideways, faster, more comfortable and easier to use. 1000 dpi movement resolution. Plug-and-play USB connectivity.</Description>
+    <Id>5637146464</Id>
+    <ImagePath>/Data/ProductImages/1060502.png</ImagePath>
+    <Name>Litware Optical USB Mouse M45</Name>
+    <Price>50.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>19</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Optical USB mouse with an improved wheel to make the scrolling up, down and sideways, faster, more comfortable and easier to use. 1000 dpi movement resolution. Plug-and-play USB connectivity.</Description>
+    <Id>5637146465</Id>
+    <ImagePath>/Data/ProductImages/1060501.png</ImagePath>
+    <Name>Litware Optical USB Mouse M45</Name>
+    <Price>50.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>19</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Optical USB mouse with an improved wheel to make the scrolling up, down and sideways, faster, more comfortable and easier to use. 1000 dpi movement resolution. Plug-and-play USB connectivity.</Description>
+    <Id>5637146466</Id>
+    <ImagePath>/Data/ProductImages/1060503.png</ImagePath>
+    <Name>Litware Optical USB Mouse M45</Name>
+    <Price>50.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>19</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Wireless laser mouse. Advanced 2.4 GHz cordless technology makes freedom, hyper-fast scrolling, laser, and cursor control on virtually any surface. USB plug-and-play connectivity. Uses 2 AA batteries.</Description>
+    <Id>5637146467</Id>
+    <ImagePath>/Data/ProductImages/1060602.png</ImagePath>
+    <Name>Litware Wireless Laser Mouse M55</Name>
+    <Price>69.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>19</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Wireless laser mouse. Advanced 2.4 GHz cordless technology makes freedom, hyper-fast scrolling, laser, and cursor control on virtually any surface. USB plug-and-play connectivity. Uses 2 AA batteries.</Description>
+    <Id>5637146468</Id>
+    <ImagePath>/Data/ProductImages/1060604.png</ImagePath>
+    <Name>Litware Wireless Laser Mouse M55</Name>
+    <Price>69.99</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>19</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Laptop with 640 GB hard drive and 4 GB RAM. 15.4-inch widescreen TFT LED display. 3 high-speed USB ports. Built-in webcam and DVD/CD-RW drive.</Description>
+    <Id>5637146264</Id>
+    <ImagePath>/Data/ProductImages/1010101.png</ImagePath>
+    <Name>Southridge Video Laptop15.4W M1548</Name>
+    <Price>700</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>20</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Laptop with 640 GB hard drive and 4 GB RAM. 15.4-inch widescreen TFT LED display. 3 high-speed USB ports. Built-in webcam and DVD/CD-RW drive.</Description>
+    <Id>5637146265</Id>
+    <ImagePath>/Data/ProductImages/1010103.png</ImagePath>
+    <Name>Southridge Video Laptop15.4W M1548</Name>
+    <Price>758</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>20</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Laptop with 640 GB hard drive and 4 GB RAM. 15.4-inch widescreen TFT LED display. 3 high-speed USB ports. Built-in webcam and DVD/CD-RW drive.</Description>
+    <Id>5637146266</Id>
+    <ImagePath>/Data/ProductImages/1010102.png</ImagePath>
+    <Name>Southridge Video Laptop15.4W M1548</Name>
+    <Price>758</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>20</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Laptop with 640 GB hard drive and 4 GB RAM. 15.4-inch widescreen TFT LED display. 3 high-speed USB ports. Built-in webcam and DVD/CD-RW drive.</Description>
+    <Id>5637146267</Id>
+    <ImagePath>/Data/ProductImages/1010104.png</ImagePath>
+    <Name>Southridge Video Laptop15.4W M1548</Name>
+    <Price>758</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>20</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Lightweight laptop with 500 GB hard drive and 4 GB RAM. Weighs only 2.2 pounds, so perfect for travelling. 8.9-inch screen with built-in webcam. Software package included.</Description>
+    <Id>5637146268</Id>
+    <ImagePath>/Data/ProductImages/1010201.png</ImagePath>
+    <Name>Southridge Video Laptop8.9 E0890</Name>
+    <Price>326</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>20</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Energy saving photo ink printer. Produces lab-quality photo prints. Printer speed up to 26ppm.  Multimedia reader for all standard media formats. 100-sheet input paper tray.</Description>
+    <Id>5637146409</Id>
+    <ImagePath>/Data/ProductImages/1050103.png</ImagePath>
+    <Name>Proseware Photo Ink Jet Printer M100</Name>
+    <Price>159</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>21</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Energy saving photo ink printer. Produces lab-quality photo prints. Printer speed up to 26ppm.  Multimedia reader for all standard media formats. 100-sheet input paper tray.</Description>
+    <Id>5637146410</Id>
+    <ImagePath>/Data/ProductImages/1050101.png</ImagePath>
+    <Name>Proseware Photo Ink Jet Printer M100</Name>
+    <Price>159</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>21</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>Energy saving photo ink printer. Produces lab-quality photo prints. Printer speed up to 26ppm.  Multimedia reader for all standard media formats. 100-sheet input paper tray.</Description>
+    <Id>5637146411</Id>
+    <ImagePath>/Data/ProductImages/1050102.png</ImagePath>
+    <Name>Proseware Photo Inkjet Printer M100</Name>
+    <Price>159</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>21</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>All-in-one printer for documents and photos. Large touch panel for easy operation. Built in Wi-Fi for easy connection. Copy speed up to 38 cpm. 60 speed dials in fax memory.</Description>
+    <Id>5637146412</Id>
+    <ImagePath>/Data/ProductImages/1050201.png</ImagePath>
+    <Name>Proseware Ink Jet All in one M300</Name>
+    <Price>169</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>21</SubCategory>
+  </Product>
+  <Product>
+    <Category>3</Category>
+    <Description>All-in-one printer for documents and photos. Large touch panel for easy operation. Built in Wi-Fi for easy connection. Copy speed up to 38 cpm. 60 speed dials in fax memory.</Description>
+    <Id>5637146413</Id>
+    <ImagePath>/Data/ProductImages/1050202.png</ImagePath>
+    <Name>Proseware Ink Jet All in one M300</Name>
+    <Price>169</Price>
+    <ProductSpecifications>
+      <ProductSpecification>
+        <Name>HardDrive(GB)</Name>
+        <Value>2</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Connector</Name>
+        <Value>3.5mm TRS</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Noice Cancelling</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Music Controls</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>USB Support</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Folding</Name>
+        <Value>Yes</Value>
+      </ProductSpecification>
+      <ProductSpecification>
+        <Name>Cord Length</Name>
+        <Value>2.4m</Value>
+      </ProductSpecification>
+    </ProductSpecifications>
+    <SubCategory>21</SubCategory>
+  </Product>
+</ArrayOfProduct>
